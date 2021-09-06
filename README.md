@@ -72,3 +72,4 @@ Live: https://627md-tajul-islam.github.io/QuotesAnimation/
 
 18/ Hex Animation
 
+Live: https://627md-tajul-islam.github.io/HexAnimation/index.html
